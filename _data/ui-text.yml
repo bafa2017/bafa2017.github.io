@@ -20,8 +20,8 @@ en: &DEFAULT_EN
   date_label                 : "Updated:"
   comments_label             : "Leave a Comment"
   comments_title             : "Comments"
-  more_label                 : "Learn More"
-  related_label              : "You May Also Enjoy"
+  more_label                 : "Read More"
+  related_label              : "Related"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
@@ -708,7 +708,7 @@ sv-SE:
   <<: *DEFAULT_SV
 sv-FI:
   <<: *DEFAULT_SV
- 
+
 # Dutch
 # -----------------
 nl: &DEFAULT_NL
