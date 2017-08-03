@@ -2,10 +2,10 @@
 main:
   - title: "Workshop"
     url: /
-  - title: "Program"
-    url: /program
-  - title: "Venue"
-    url: /venue
+  #- title: "Program"
+  #  url: /program
+  #- title: "Venue"
+  #  url: /venue
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
