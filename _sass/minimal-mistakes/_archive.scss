@@ -199,24 +199,39 @@
   margin-bottom: 2em;
   font-size: 1.25rem;
 
-  @include gallery(5 of 10); /* default is for very small screens */
+  float: left;
+  width: span(6 of 12);  /* default is for very small screens */
+
+  &:nth-child(2n+1) {
+    clear: both;
+    margin-left: 0;
+  }
+
+  &:nth-child(2n+2) {
+    clear: none;
+    margin-left: gutter(of 12);
+  }
 
   @include breakpoint($small) {  /* for larger screens use four in one row */
-    float: left;
     margin-bottom: 0;
     width: span(3 of 12);  /* default = 4 of 12 */
 
-    &:nth-child(3n+1) {
+    &:nth-child(4n+1) {
       clear: both;
       margin-left: 0;
     }
 
-    &:nth-child(3n+2) {
+    &:nth-child(4n+2) {
       clear: none;
       margin-left: gutter(of 12);
     }
 
-    &:nth-child(3n+3) {
+    &:nth-child(4n+3) {
+      clear: none;
+      margin-left: gutter(of 12);
+    }
+
+    &:nth-child(4n+4) {
       clear: none;
       margin-left: gutter(of 12);
     }
