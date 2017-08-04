@@ -18,22 +18,22 @@ feature_speakers:
       alt: ""
       title: "Dr. Roian Egnor"
       excerpt: "Topic: *tentative*"
-      url: ""
+      url: /egnor
     - image_path: /assets/speakers/b_fisher.jpg
       alt: ""
       title: "Prof. Robert Fisher"
       excerpt: "Topic: *tentative*"
-      url: ""
+      url: "/fisher"
     - image_path: /assets/speakers/y_winter.jpg
       alt: ""
       title: "Prof. York Winter"
       excerpt: "Topic: *tentative*"
-      url: ""
+      url: "/winter"
     - image_path: /assets/speakers/l_vanderschuren.jpg
       alt: ""
       title: "Prof. Louk Vanderschuren"
       excerpt: "Topic: *tentative*"
-      url: ""
+      url: "/vanderschuren"
 
 feature_organizers:
     - title: "Malte Lorbach"
