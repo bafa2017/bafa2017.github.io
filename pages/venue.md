@@ -26,8 +26,8 @@ gallery_academiegebouw:
 
 <table>
   <colgroup>
-    <col width="20%" />
-    <col width="80%" />
+    <col width="40%" />
+    <col width="60%" />
   </colgroup>
   <tbody>
     <tr>
@@ -76,17 +76,6 @@ The University Hall is [Utrecht University](https://www.uu.nl/en)’s ceremonial
 
 Other airports in the Netherlands include [Rotterdam/Den Haag (RTM)](https://www.rotterdamthehagueairport.nl/en) and [Eindhoven (EIN)](https://www.eindhovenairport.nl/en). Several low-budget airlines fly into one of these two airports from within Europe. From both airports, it takes approximately 1h 15min to Utrecht by public transport.
 
-### To the hotels
-
-<div markdown="span">
-    **Apollo Hotel City Center**<br/>
-    Vredenburg 14<br/>
-    3511 BA Utrecht<br/>
-    [Google Maps](https://www.google.com/maps/place/Apollo+Hotel+Utrecht+City+Center)
-</div>{: .notice--info}
-
-The Apollo Hotel City Center is easily reached by foot from the Central Station. Inside the station follow the signs "Vredenburg". You will pass through a shopping mall. Once outside on street level, turn left and pass the market place. The hotel is on your right, just before the first road crossing. The entrance is opposite of Starbucks, between KFC and the WE store.
-
 ### To the workshop venue
 
 <div markdown="span">
@@ -96,12 +85,17 @@ The Apollo Hotel City Center is easily reached by foot from the Central Station.
     [Google Maps](https://www.google.com/maps/place/Academiegebouw/@52.0902099,5.121857,19z/)
 </div>{: .notice--info}
 
-#### From the central station
-
-Inside Utrecht Central Station follow the signs "Bus Jaarbeurszijde" to the central bus stop. From there take one of the many busses through the city center and exit at *Janskerkhof*. Your options include Bus 7 towards *Voordorp*, Bus 8 towards *Wilheminapark*, and Bus 77 towards *Bilthoven*.
+Inside Utrecht Central Station follow the signs "Bus Jaarbeurszijde" to the central bus stop. From there take one of the many busses through the city center and exit at *Janskerkhof*. Your options include Bus 2 towards *Museumkwartier*, Bus 7 towards *Voordorp*, Bus 8 towards *Wilheminapark*, and Bus 77 towards *Bilthoven*. The workshop location is a 5 min walk from here through the city center.
 
 Check online for more connections and departure times: [9292.nl/en](http://9292.nl/en)
 
-#### From the hotels
+### To the hotel
 
-...
+<div markdown="span">
+    **Eye Hotel**<br/>
+    Wijde Begijnestraat 1-3<br/>
+    3512 AW Utrecht<br/>
+    [Google Maps](https://www.google.nl/maps/place/Eye+Hotel/@52.0954403,5.1218645,15z/data=!4m2!3m1!1s0x0:0x25dedc098a5a2bce)
+</div>{: .notice--info}
+
+The Eye Hotel is either a short bus ride or a 15-20 min walk away from the Central Station. Going by bus, follow the signs "Bus Jaarbeurszijde" from the train station to the central bus stop. From there take one of the many busses through the city center and exit at *Janskerkhof*. Your options include Bus 2 towards *Museumkwartier*, Bus 7 towards *Voordorp*, Bus 8 towards *Wilheminapark*, and Bus 77 towards *Bilthoven*. The hotel is a 5 minute walk from here.
