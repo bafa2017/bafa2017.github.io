@@ -1,0 +1,29 @@
+# /_data/authors.yml
+
+regnor:
+  name: "Dr. Roian Egnor"
+  bio: ""
+  location: "Janelia Research Campus, Ashburn, Virginia, USA"
+  avatar: "/assets/speakers/r_egnor.jpg"
+  uri: "https://www.janelia.org/people/roian-egnor"
+
+rfisher:
+  name: "Prof. Robert Fisher"
+  bio: ""
+  location: "University of Edinburgh, UK"
+  avatar: "/assets/speakers/b_fisher.jpg"
+  uri: "http://homepages.inf.ed.ac.uk/rbf/"
+
+lvanderschuren:
+  name: "Prof. Louk Vanderschuren"
+  bio: ""
+  location: "Utrecht University, Utrecht, The Netherlands"
+  avatar: "/assets/speakers/l_vanderschuren.jpg"
+  uri: "https://www.uu.nl/staff/LJMJVanderschuren"
+
+ywinter:
+  name: "Prof. York Winter"
+  bio: ""
+  location: "Humboldt University, Berlin, Germany"
+  avatar: "/assets/speakers/y_winter.jpg"
+  uri: "https://www.winterlab.org/dnn/Winter.aspx"

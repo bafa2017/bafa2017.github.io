@@ -6,3 +6,15 @@ main:
     url: /program
   - title: "Venue"
     url: /venue
+  - title: "Sponsors"
+    url: /sponsors
+
+speakers:
+  - title: "Roian Egnor"
+    url: /egnor
+  - title: "Robert Fisher"
+    url: /fisher
+  - title: "Louk Vanderschuren"
+    url: /vanderschuren
+  - title: "York Winter"
+    url: /winter
