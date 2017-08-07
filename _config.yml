@@ -186,6 +186,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-email-protect
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -194,6 +195,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-email-protect
 
 github: [metadata]
 
