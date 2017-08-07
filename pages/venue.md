@@ -22,6 +22,8 @@ gallery_academiegebouw:
     alt: "Academiegebouw detail"
 ---
 
+The workshop takes place in the University Hall (Academiegebouw) of Utrecht University. It is located in the city center right next to the Dom of Utrecht.
+
 ## At a glance
 
 <table>
@@ -88,14 +90,3 @@ Other airports in the Netherlands include [Rotterdam/Den Haag (RTM)](https://www
 Inside Utrecht Central Station follow the signs "Bus Jaarbeurszijde" to the central bus stop. From there take one of the many busses through the city center and exit at *Janskerkhof*. Your options include Bus 2 towards *Museumkwartier*, Bus 7 towards *Voordorp*, Bus 8 towards *Wilheminapark*, and Bus 77 towards *Bilthoven*. The workshop location is a 5 min walk from here through the city center.
 
 Check online for more connections and departure times: [9292.nl/en](http://9292.nl/en)
-
-### To the hotel
-
-<div markdown="span">
-    **Eye Hotel**<br/>
-    Wijde Begijnestraat 1-3<br/>
-    3512 AW Utrecht<br/>
-    [Google Maps](https://www.google.nl/maps/place/Eye+Hotel/@52.0954403,5.1218645,15z/data=!4m2!3m1!1s0x0:0x25dedc098a5a2bce)
-</div>{: .notice--info}
-
-The Eye Hotel is either a short bus ride or a 15-20 min walk away from the Central Station. Going by bus, follow the signs "Bus Jaarbeurszijde" from the train station to the central bus stop. From there take one of the many busses through the city center and exit at *Janskerkhof*. Your options include Bus 2 towards *Museumkwartier*, Bus 7 towards *Voordorp*, Bus 8 towards *Wilheminapark*, and Bus 77 towards *Bilthoven*. The hotel is a 5 minute walk from here.
