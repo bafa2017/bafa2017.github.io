@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Workshop"
-    url: /
+  - title: "Register"
+    url: /registration
   - title: "Program"
     url: /program
   - title: "Venue"

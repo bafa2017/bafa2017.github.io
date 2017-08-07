@@ -8,8 +8,8 @@ classes:
 header:
   overlay_filter: "rgba(0,150,200,0.2)"
   overlay_image: /assets/images/banner_net_2.jpg
-  #cta_label: "Register now"
-  #cta_url: "/registration"
+  cta_label: "Register now"
+  cta_url: "/registration"
 
 excerpt: 12-13 October 2017, Utrecht, The Netherlands
 
@@ -17,38 +17,35 @@ feature_speakers:
     - image_path: /assets/speakers/r_egnor.jpg
       alt: ""
       title: "Dr. Roian Egnor"
-      excerpt: "Topic: *tentative*"
+      excerpt: "
+        Janelia Research Campus<br/><br/>
+        Topic: *tentative*
+      "
       url: /egnor
     - image_path: /assets/speakers/b_fisher.jpg
       alt: ""
       title: "Prof. Robert Fisher"
-      excerpt: "Topic: *tentative*"
+      excerpt: "
+        University of Edinburgh<br/><br/>
+        Topic: *tentative*
+      "
       url: "/fisher"
-    - image_path: /assets/speakers/y_winter.jpg
-      alt: ""
-      title: "Prof. York Winter"
-      excerpt: "Topic: *tentative*"
-      url: "/winter"
     - image_path: /assets/speakers/l_vanderschuren.jpg
       alt: ""
       title: "Prof. Louk Vanderschuren"
-      excerpt: "Topic: *tentative*"
+      excerpt: "
+        Utrecht University<br/><br/>
+        Topic: *tentative*
+      "
       url: "/vanderschuren"
-
-feature_organizers:
-    - title: "Malte Lorbach"
-      excerpt: "..."
-      url: false
-    - image_path: /assets/organizers/r_poppe.jpg
+    - image_path: /assets/speakers/y_winter.jpg
       alt: ""
-      title: "Dr. Ronald Poppe"
-      excerpt: "..."
-      url: false
-    - image_path: /assets/organizers/j_homberg.jpg
-      alt: ""
-      title: "Dr. Judith Homberg"
-      excerpt: "..."
-      url: false
+      title: "Prof. York Winter"
+      excerpt: "
+        Humboldt University, Berlin<br/><br/>
+        Topic: *tentative*
+      "
+      url: "/winter"
 ---
 
 # Welcome to BAFA 2017
