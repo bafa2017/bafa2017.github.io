@@ -8,7 +8,7 @@ The BAFA 2017 workshop is sponsored by
 
 
 <figure  style="max-width: 50%">
-  <a href="https://www.zonmw.nl/en"><img src="/assets/images/ZonMW.png" alt="ZonMW"></a>
+  <a href="https://www.zonmw.nl/en"><img src="/assets/images/ZonMw.png" alt="ZonMW"></a>
   <figcaption>ZonMW programme: More Knowledge with Fewer Animals</figcaption>
 </figure>
 
