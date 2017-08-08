@@ -6,7 +6,7 @@ permalink: /venue/
 header:
   <!-- overlay_filter: "rgba(0,0,0,0.0)"
   overlay_image: /assets/images/utrecht.jpg -->
-  overlay_filter: "rgba(255,128,0,0.2)"
+  overlay_filter: "rgba(255,153,  0,0.4)"
   overlay_image: /assets/images/banner_net_2.jpg
 
 
@@ -87,7 +87,7 @@ Other airports in the Netherlands include [Rotterdam/Den Haag (RTM)](https://www
     [Google Maps](https://www.google.com/maps/place/Academiegebouw/@52.0902099,5.121857,19z/)
 </div>{: .notice--info}
 
-Inside Utrecht Central Station follow the signs `Busstation Jaarbeurszijde` to the central bus stop. From there take one of the many busses through the city center and exit at `Janskerkhof`. The workshop location is a 5 min walk from here through the city center. Amongst others, your options include
+Inside Utrecht Central Station follow the signs `Busstation Jaarbeurszijde` to the central bus stop. From there take one of the many buses through the city center and exit at `Janskerkhof`. The workshop location is a 5 min walk from here through the city center. Amongst others, your options include
 * Bus 2 toward `Museumkwartier`
 * Bus 7 toward `Voordorp`
 * Bus 8 toward `Wilheminapark`

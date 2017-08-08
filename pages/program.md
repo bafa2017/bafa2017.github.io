@@ -4,7 +4,7 @@ title: Program
 permalink: /program/
 
 header:
-  overlay_filter: "rgba(0,210,80,0.2)"
+  overlay_filter: "rgba(255,197,  0,0.4)"
   overlay_image: /assets/images/banner_net_2.jpg
 ---
 

@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration/
 
 header:
-  overlay_filter: "rgba(255,170,80,0.2)"
+  overlay_filter: "rgba(255, 86,  0,0.4)"
   overlay_image: /assets/images/banner_net_2.jpg
 ---
 
@@ -28,9 +28,9 @@ header:
 <span style="margin-left: 5px;">Please register your attendance for at least one workshop day.</span>
 </div>
 
-To attend the BAFA workshop 2017, please register using the form on this page. Attendance is free of charge and includes two full workshop days and the reception on Thursday. Note that we may need to close registration when the maximum room capacity is reached.
+To attend the BAFA workshop 2017, please register using the form on this page. Attendance is **free** of charge and includes two full workshop days and a reception on Thursday. Due to limited room capacity, we may close registration if maximum capacity is reached. We reserve the right to select participants based on their scientific expertise to ensure the diversity among attendees.
 
-To get the most out of the workshop, we strongly encourage to attend both days. If you have to be absent on either day, please indicate it accordingly in your registration.
+To get the most out of the workshop, we strongly encourage to attend both days. If you have to be absent on either day, please indicate it accordingly in your registration. If the number of registrations exceeds our capacity, we may give preference to participants who attend the entire workshop.
 
 For questions, remarks or when you need to change your registration, please contact the <a href="mailto:{{ 'bafaworkshop2017@gmail.com' | encode_email }}?Subject=BAFA registration">organizers</a>.
 
@@ -50,8 +50,8 @@ For questions, remarks or when you need to change your registration, please cont
     </fieldset>
     <div>{{ site.data.ui-text[site.locale].comment_form_att_label | default: "Attendance:" }}
         <ul style="margin-left: 10px;">
-            <li><input type="checkbox" id="register-attendance-th" name="attendance_thursday" value="true" checked tabindex="5" /> Thursday, 12 October</li>
-            <li><input type="checkbox" id="register-attendance-fr" name="attendance_friday" value="true" checked tabindex="6" /> Friday, 13 October</li>
+            <li><input type="checkbox" id="register-attendance-th" name="attendance_thursday" value="true" checked tabindex="5" /> Thursday, 12 October 2017</li>
+            <li><input type="checkbox" id="register-attendance-fr" name="attendance_friday" value="true" checked tabindex="6" /> Friday, 13 October 2017</li>
         </ul>
     </div>
     <fieldset>
