@@ -73,8 +73,12 @@ We proudly announce our four keynote speakers who will pitch their ideas for a b
 
 
 # Organizers
-The BAFA workshop 2017 is organized by
+BAFA 2017 is organized by
 
 * **Malte Lorbach**, Utrecht University, Department of Information and Computing Sciences
 * **Ronald Poppe**, Utrecht University, Department of Information and Computing Sciences
 * **Judith Homberg**, Radboud University Medical Center, Donders Institute for Brain, Cognition, and Behavior
+
+## Contact
+
+Questions can be addressed to the <a href="mailto:{{ 'bafaworkshop2017@gmail.com' | encode_email }}?Subject=BAFA 2017">organizers</a>.
