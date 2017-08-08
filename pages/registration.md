@@ -28,7 +28,7 @@ header:
 <span style="margin-left: 5px;">Please register your attendance for at least one workshop day.</span>
 </div>
 
-To attend the BAFA workshop 2017, please register using the form on this page. Attendance is free of charge and includes two full workshop days and the reception on Thursday.
+To attend the BAFA workshop 2017, please register using the form on this page. Attendance is free of charge and includes two full workshop days and the reception on Thursday. Note that we may need to close registration when the maximum room capacity is reached.
 
 To get the most out of the workshop, we strongly encourage to attend both days. If you have to be absent on either day, please indicate it accordingly in your registration.
 
