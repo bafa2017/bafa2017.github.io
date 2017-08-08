@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/banner_net_2.jpg
 ---
 
-<div id="errorAttendance" style="display: none;" markdown="span" class="notice--warning">
+<div id="errorAttendance" markdown="span" class="notice--warning">
     <i class="fa fa-exclamation-triangle" aria-hidden="true" />
     <span style="margin-left: 5px;">**This is a preliminary program that is subject to change.**</span>
 </div>
