@@ -23,6 +23,7 @@ en: &DEFAULT_EN
   more_label                 : "Read More"
   related_label              : "Related"
   follow_label               : "Follow:"
+  more_author_label          : "More"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"

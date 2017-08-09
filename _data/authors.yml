@@ -3,7 +3,7 @@
 regnor:
   name: "Dr. Roian Egnor"
   bio: ""
-  location: "Janelia Research Campus, Ashburn, Virginia, USA"
+  location: "Janelia Research Campus, Ashburn, VA, USA"
   avatar: "/assets/speakers/r_egnor.jpg"
   uri: "https://www.janelia.org/people/roian-egnor"
 
@@ -26,4 +26,4 @@ ywinter:
   bio: ""
   location: "Humboldt University, Berlin, Germany"
   avatar: "/assets/speakers/y_winter.jpg"
-  uri: "https://www.winterlab.org/dnn/Winter.aspx"
+  uri: "https://www.winterlab.org"
