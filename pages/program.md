@@ -16,47 +16,47 @@ header:
 ## Thursday, 12 October
 ### Morning
 
-| Time          | Description                        | Room      |
-| ------------- | -----------------------------      | --------- |
-| 9:00 - 9:15   | Welcome with coffee and tea        | K         |
-| 9:15 - 10:15  | Keynote: [Dr. Roian Egnor](/egnor) | K         |
-| 10:15 - 10:30 | *Coffee break*                     |           |
-| 10:30 - 11:30 | Break-out session 1                | K & S     |
-| 11:30 - 12:15 | Presentations session 1            | K         |
-| 12:15 - 12:30 | Wrap-up                            | K         |
-| 12:30 - 13:30 | *Lunch break*                      |           |
+| Time          | Description                        |
+| ------------- | -----------------------------      |
+| 9:00 - 9:15   | Welcome with coffee and tea        |
+| 9:15 - 10:15  | Keynote: [Dr. Roian Egnor](/egnor) |
+| 10:15 - 10:30 | *Coffee break*                     |
+| 10:30 - 11:30 | Break-out session 1                |
+| 11:30 - 12:15 | Presentations session 1            |
+| 12:15 - 12:30 | Wrap-up                            |
+| 12:30 - 13:30 | *Lunch break*                      |
 
 ### Afternoon
 
-| Time          | Description                           | Room      |
-| ------------- | -----------------------------         | --------- |
-| 13:30 - 14:30 | Keynote: [Prof. York Winter](/winter) | K         |
-| 14:30 - 15:30 | Break-out session 2                   | K & S     |
-| 15:30 - 15:45 | *Coffee break*                        |           |
-| 15:45 - 16:30 | Presentations session 2               | K         |
-| 16:30 - 17:00 | Group discussion                      | K         |
-| 17:00 - 19:00 | *Reception*                           | tbd       |
+| Time          | Description                           |
+| ------------- | -----------------------------         |
+| 13:30 - 14:30 | Keynote: [Prof. York Winter](/winter) |
+| 14:30 - 15:30 | Break-out session 2                   |
+| 15:30 - 15:45 | *Coffee break*                        |
+| 15:45 - 16:30 | Presentations session 2               |
+| 16:30 - 17:00 | Group discussion                      |
+| 17:00 - 19:00 | *Reception*                           |
 
 
 ## Friday, 13 October
 ### Morning
 
-| Time          | Description                                         | Room      |
-| ------------- | -----------------------------                       | --------- |
-| 9:15 - 10:15  | Keynote: [Prof. Louk Vanderschuren](/vanderschuren) | K         |
-| 10:15 - 10:30 | *Coffee break*                                      |           |
-| 10:30 - 11:30 | Break-out session 3                                 | K & S     |
-| 11:30 - 12:15 | Presentations session 3                             | K         |
-| 12:15 - 12:30 | Wrap-up                                             | K         |
-| 12:30 - 13:30 | *Lunch break*                                       |           |
+| Time          | Description                                         |
+| ------------- | -----------------------------                       |
+| 9:15 - 10:15  | Keynote: [Prof. Louk Vanderschuren](/vanderschuren) |
+| 10:15 - 10:30 | *Coffee break*                                      |
+| 10:30 - 11:30 | Break-out session 3                                 |
+| 11:30 - 12:15 | Presentations session 3                             |
+| 12:15 - 12:30 | Wrap-up                                             |
+| 12:30 - 13:30 | *Lunch break*                                       |
 
 ### Afternoon
 
-| Time          | Description                            | Room      |
-| ------------- | -----------------------------          | --------- |
-| 13:30 - 14:30 | Keynote: [Prof. Robert Fisher](/fisher) | K         |
-| 14:30 - 15:30 | Break-out session 4                    | K & S     |
-| 15:30 - 15:45 | *Coffee break*                         |           |
-| 15:45 - 16:30 | Presentations session 4                | K         |
-| 16:30 - 17:00 | Group discussion                       | K         |
-| 17:00 - 17:15 | Wrap-up                                | K         |
+| Time          | Description                             |
+| ------------- | -----------------------------           |
+| 13:30 - 14:30 | Keynote: [Prof. Robert Fisher](/fisher) |
+| 14:30 - 15:30 | Break-out session 4                     |
+| 15:30 - 15:45 | *Coffee break*                          |
+| 15:45 - 16:30 | Presentations session 4                 |
+| 16:30 - 17:00 | Group discussion                        |
+| 17:00 - 17:15 | Wrap-up                                 |

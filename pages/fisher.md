@@ -6,8 +6,7 @@ author_profile: true
 author: rfisher
 ---
 
-## Brief introduction
-Prof. Robert Fisher has been an academic in the School of Informatics (originally in the former Department of Artificial Intelligence) at University of Edinburgh since 1984 and a full Professor since 2003. He received his PhD from University of Edinburgh (1987), investigating computer vision in the former Department of Artificial Intelligence. His previous degrees are a BS with honors (Mathematics) from California Institute of Technology (1974) and a MS (Computer Science) from Stanford University (1978). He worked as a software engineer for 5 years before returning to study for his PhD.
+Prof. Robert Fisher has received a BS (Mathematics, California Institute of Technology, 1974), MS (Computer Science, Stanford, 1978) and a PhD (Edinburgh, 1987). Since then, Bob has been an academic in the [School of Informatics](http://www.ed.ac.uk/informatics/) at University of Edinburgh. His research covers topics in high level and 3D computer vision, focussing on reconstructing geometric models from existing examples, which contributed to a spin-off company, Dimensional Imaging. More recently, he has also been researching video sequence understanding, in particular attempting to understand observed animal behaviour. The research has led to 13 authored or edited books and about 250 peer-reviewed scientific articles. He has developed several online computer vision resources, with over 1 million hits. Most recently, he has been the coordinator of an EC STREP project acquiring and analysing video data of 1.4 billion fish from over about 20 camera-years of undersea video of tropical coral reefs.
 
 ## Other speakers
 {% include nav_list nav="speakers" %}
