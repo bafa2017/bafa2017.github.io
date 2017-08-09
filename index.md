@@ -8,10 +8,10 @@ classes:
 header:
   overlay_filter: "rgba(2, 83,167,0.4)"
   overlay_image: /assets/images/banner_net_2.jpg
-  #cta_label: "Register now"
-  #cta_url: "/registration"
-  cta_label: "Registration will open soon"
-  cta_url: ""
+  cta_label: "Register now"
+  cta_url: "/registration"
+  #cta_label: "Registration will open soon"
+  #cta_url: ""
 
 excerpt: 12-13 October 2017, Utrecht, The Netherlands
 
