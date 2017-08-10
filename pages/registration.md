@@ -48,15 +48,19 @@ For questions, remarks or when you need to change your registration, please cont
         <label for="register-affiliation">{{ site.data.ui-text[site.locale].comment_form_aff_label | default: "Affiliation" }} <small class="required">*</small></label>
         <input type="text" id="register-affiliation" name="affiliation" tabindex="4" required />
     </fieldset>
+    <fieldset>
+        <label for="register-website">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website" }}</label>
+        <input type="text" id="register-website" name="website" tabindex="5" />
+    </fieldset>
     <div>{{ site.data.ui-text[site.locale].comment_form_att_label | default: "Attendance:" }}
         <ul style="margin-left: 10px;">
-            <li><input type="checkbox" id="register-attendance-th" name="attendance_thursday" value="true" checked tabindex="5" /> Thursday, 12 October 2017</li>
-            <li><input type="checkbox" id="register-attendance-fr" name="attendance_friday" value="true" checked tabindex="6" /> Friday, 13 October 2017</li>
+            <li><input type="checkbox" id="register-attendance-th" name="attendance_thursday" value="true" checked tabindex="6" /> Thursday, 12 October 2017</li>
+            <li><input type="checkbox" id="register-attendance-fr" name="attendance_friday" value="true" checked tabindex="7" /> Friday, 13 October 2017</li>
         </ul>
     </div>
     <fieldset>
         <label for="register-comment">{{ site.data.ui-text[site.locale].comment_form_additional_label | default: "Additional information" }}</label>
-        <textarea id="register-comment" name="register-comment" maxlength="1500"></textarea>
+        <textarea id="register-comment" name="register-comment" maxlength="1500" tabindex="8"></textarea>
     </fieldset>
 
     <fieldset class="hidden" style="display: none;">
@@ -64,6 +68,6 @@ For questions, remarks or when you need to change your registration, please cont
         <input type="hidden" id="register-location" name="_gotcha" value="{{ page.slug }}">
     </fieldset>
     <fieldset>
-        <button type="submit" id="register-submit" tabindex="7" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Registration" }}</button>
+        <button type="submit" id="register-submit" tabindex="9" class="btn btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Registration" }}</button>
     </fieldset>
 </form>

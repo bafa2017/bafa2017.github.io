@@ -9,6 +9,7 @@ $(document).ready(function() {
         var email = $('#register-email').val();
         //get the affiliation
         var affiliation = $('#register-affiliation').val();
+        var website = $('#register-website').val();
         // get comment field
         var comment_extra = $('#register-comment').val();
         // get attendance days
@@ -31,6 +32,7 @@ $(document).ready(function() {
                 name:name,
                 _replyto:email,
                 affiliation:affiliation,
+                website:website,
                 attendance_th:attendance_th,
                 attendance_fr:attendance_fr,
                 attendance_reception:attendance_reception,
