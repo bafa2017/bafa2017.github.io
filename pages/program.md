@@ -13,50 +13,164 @@ header:
     <span style="margin-left: 5px;">**This is a preliminary program that is subject to change.**</span>
 </div>
 
+
 ## Thursday, 12 October
 ### Morning
-
-| Time          | Description                        |
-| ------------- | -----------------------------      |
-| 9:00 - 9:15   | Welcome with coffee and tea        |
-| 9:15 - 10:15  | Keynote: [Dr. Roian Egnor](/egnor) |
-| 10:15 - 10:30 | *Coffee break*                     |
-| 10:30 - 11:30 | Break-out session 1                |
-| 11:30 - 12:15 | Presentations session 1            |
-| 12:15 - 12:30 | Wrap-up                            |
-| 12:30 - 13:30 | *Lunch break*                      |
+<table>
+  <colgroup><col style="min-width: 100px; max-width: 150px;"><col style="width: 100%; word-wrap: break-word;"></colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00 - 09:15</td>
+      <td>Welcome with coffee and tea</td>
+    </tr>
+    <tr>
+      <td>09:15 - 10:00</td>
+      <td markdown="span">Keynote: [Dr. Roian Egnor](/egnor)</td>
+    </tr>
+    <tr>
+      <td>10:00 - 10:15</td>
+      <td><em>Coffee break</em></td>
+    </tr>
+    <tr>
+      <td>10:15 - 11:15</td>
+      <td>Break-out session 1</td>
+    </tr>
+    <tr>
+      <td>11:15 - 12:00</td>
+      <td>Presentations session 1</td>
+    </tr>
+    <tr>
+      <td>12:00 - 12:15</td>
+      <td>Wrap-up</td>
+    </tr>
+    <tr>
+      <td>12:15 - 13:15</td>
+      <td><em>Lunch break</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Afternoon
-
-| Time          | Description                           |
-| ------------- | -----------------------------         |
-| 13:30 - 14:30 | Keynote: [Prof. York Winter](/winter) |
-| 14:30 - 15:30 | Break-out session 2                   |
-| 15:30 - 15:45 | *Coffee break*                        |
-| 15:45 - 16:30 | Presentations session 2               |
-| 16:30 - 17:00 | Group discussion                      |
-| 17:00 - 19:00 | *Reception*                           |
+<table>
+  <colgroup><col style="min-width: 100px; max-width: 150px;"><col style="width: 100%; word-wrap: break-word;"></colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>13:15 - 14:00</td>
+      <td markdown="span">Keynote: [Prof. York Winter](/winter)</td>
+    </tr>
+    <tr>
+      <td>14:00 - 15:00</td>
+      <td>Break-out session 2</td>
+    </tr>
+    <tr>
+      <td>15:00 - 15:15</td>
+      <td><em>Coffee break</em></td>
+    </tr>
+    <tr>
+      <td>15:15 - 16:00</td>
+      <td>Presentations session 2</td>
+    </tr>
+    <tr>
+      <td>16:00 - 16:30</td>
+      <td markdown="span">Lessons learned from 25 years behavior analysis<br />(Elsbeth van Dam, Noldus Information Technology)</td>
+    </tr>
+    <tr>
+      <td>16:30 - 17:00</td>
+      <td>Group discussion</td>
+    </tr>
+    <tr>
+      <td>17:00 - 19:00</td>
+      <td><em>Reception</em></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Friday, 13 October
 ### Morning
 
-| Time          | Description                                         |
-| ------------- | -----------------------------                       |
-| 9:15 - 10:15  | Keynote: [Prof. Louk Vanderschuren](/vanderschuren) |
-| 10:15 - 10:30 | *Coffee break*                                      |
-| 10:30 - 11:30 | Break-out session 3                                 |
-| 11:30 - 12:15 | Presentations session 3                             |
-| 12:15 - 12:30 | Wrap-up                                             |
-| 12:30 - 13:30 | *Lunch break*                                       |
+<table>
+  <colgroup><col style="min-width: 100px; max-width: 150px;"><col style="width: 100%; word-wrap: break-word;"></colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:15 - 10:00</td>
+      <td markdown="span">Keynote: [Prof. Louk Vanderschuren](/vanderschuren)</td>
+    </tr>
+    <tr>
+      <td>10:00 - 10:15</td>
+      <td><em>Coffee break</em></td>
+    </tr>
+    <tr>
+      <td>10:15 - 11:15</td>
+      <td>Break-out session 3</td>
+    </tr>
+    <tr>
+      <td>11:15 - 12:00</td>
+      <td>Presentations session 3</td>
+    </tr>
+    <tr>
+      <td>12:00 - 12:15</td>
+      <td>Wrap-up</td>
+    </tr>
+    <tr>
+      <td>12:15 - 13:15</td>
+      <td><em>Lunch break</em></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Afternoon
 
-| Time          | Description                             |
-| ------------- | -----------------------------           |
-| 13:30 - 14:30 | Keynote: [Prof. Robert Fisher](/fisher) |
-| 14:30 - 15:30 | Break-out session 4                     |
-| 15:30 - 15:45 | *Coffee break*                          |
-| 15:45 - 16:30 | Presentations session 4                 |
-| 16:30 - 17:00 | Group discussion                        |
-| 17:00 - 17:15 | Wrap-up                                 |
+<table>
+  <colgroup><col style="min-width: 100px; max-width: 150px;"><col style="width: 100%; word-wrap: break-word;"></colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>13:15 - 14:00</td>
+      <td markdown="span">Keynote: [Prof. Robert Fisher](/fisher)</td>
+    </tr>
+    <tr>
+      <td>14:00 - 15:00</td>
+      <td>Break-out session 4</td>
+    </tr>
+    <tr>
+      <td>15:00 - 15:15</td>
+      <td><em>Coffee break</em></td>
+    </tr>
+    <tr>
+      <td>15:15 - 16:00</td>
+      <td>Presentations session 4</td>
+    </tr>
+    <tr>
+      <td>16:00 - 16:30</td>
+      <td>Group discussion</td>
+    </tr>
+    <tr>
+      <td>16:30 - 16:45</td>
+      <td>Wrap-up</td>
+    </tr>
+  </tbody>
+</table>
