@@ -65,6 +65,8 @@ The BAFA workshop focuses on studying practical questions or ideas that are pitc
   - Wrap-up
   - Discussion of the day's highlights
 
+On the first day, we will have a presentation round in which the participants briefly introduce themselves and their research. [Read more...](/presentation_format)
+
 
 # Speakers
 We proudly announce our four keynote speakers who will pitch their ideas for a better analysis with fewer animals.

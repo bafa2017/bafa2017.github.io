@@ -30,27 +30,19 @@ header:
       <td>Welcome with coffee and tea</td>
     </tr>
     <tr>
-      <td>09:15 - 10:00</td>
+      <td>09:15 - 10:15</td>
       <td markdown="span">Keynote: [Dr. Roian Egnor](/egnor)</td>
     </tr>
     <tr>
-      <td>10:00 - 10:15</td>
+      <td>10:15 - 10:30</td>
       <td><em>Coffee break</em></td>
     </tr>
     <tr>
-      <td>10:15 - 11:15</td>
-      <td>Break-out session 1</td>
+      <td>10:30 - 12:00</td>
+      <td markdown="span">[Participant presentations](/presentation_format)</td>
     </tr>
     <tr>
-      <td>11:15 - 12:00</td>
-      <td>Presentations session 1</td>
-    </tr>
-    <tr>
-      <td>12:00 - 12:15</td>
-      <td>Wrap-up</td>
-    </tr>
-    <tr>
-      <td>12:15 - 13:15</td>
+      <td>12:00 - 13:00</td>
       <td><em>Lunch break</em></td>
     </tr>
   </tbody>
@@ -67,12 +59,12 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>13:15 - 14:00</td>
-      <td markdown="span">Keynote: [Prof. York Winter](/winter)</td>
+      <td>13:00 - 14:00</td>
+      <td markdown="span">Keynote: [Prof. Louk Vanderschuren](/vanderschuren)</td>
     </tr>
     <tr>
       <td>14:00 - 15:00</td>
-      <td>Break-out session 2</td>
+      <td>Break-out session 1</td>
     </tr>
     <tr>
       <td>15:00 - 15:15</td>
@@ -80,7 +72,7 @@ header:
     </tr>
     <tr>
       <td>15:15 - 16:00</td>
-      <td>Presentations session 2</td>
+      <td>Presentations session 1</td>
     </tr>
     <tr>
       <td>16:00 - 16:30</td>
@@ -111,27 +103,27 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>09:15 - 10:00</td>
-      <td markdown="span">Keynote: [Prof. Louk Vanderschuren](/vanderschuren)</td>
+      <td>09:15 - 10:15</td>
+      <td markdown="span">Keynote: [Prof. York Winter](/winter)</td>
     </tr>
     <tr>
-      <td>10:00 - 10:15</td>
+      <td>10:15 - 10:30</td>
       <td><em>Coffee break</em></td>
     </tr>
     <tr>
-      <td>10:15 - 11:15</td>
-      <td>Break-out session 3</td>
+      <td>10:30 - 11:30</td>
+      <td>Break-out session 2</td>
     </tr>
     <tr>
-      <td>11:15 - 12:00</td>
-      <td>Presentations session 3</td>
+      <td>11:30 - 12:15</td>
+      <td>Presentations session 2</td>
     </tr>
     <tr>
-      <td>12:00 - 12:15</td>
+      <td>12:15 - 12:30</td>
       <td>Wrap-up</td>
     </tr>
     <tr>
-      <td>12:15 - 13:15</td>
+      <td>12:30 - 13:30</td>
       <td><em>Lunch break</em></td>
     </tr>
   </tbody>
@@ -149,27 +141,27 @@ header:
   </thead>
   <tbody>
     <tr>
-      <td>13:15 - 14:00</td>
+      <td>13:30 - 14:30</td>
       <td markdown="span">Keynote: [Prof. Robert Fisher](/fisher)</td>
     </tr>
     <tr>
-      <td>14:00 - 15:00</td>
-      <td>Break-out session 4</td>
+      <td>14:30 - 15:30</td>
+      <td>Break-out session 3</td>
     </tr>
     <tr>
-      <td>15:00 - 15:15</td>
+      <td>15:30 - 15:45</td>
       <td><em>Coffee break</em></td>
     </tr>
     <tr>
-      <td>15:15 - 16:00</td>
-      <td>Presentations session 4</td>
-    </tr>
-    <tr>
-      <td>16:00 - 16:30</td>
-      <td>Group discussion</td>
+      <td>15:45 - 16:30</td>
+      <td>Presentations session 3</td>
     </tr>
     <tr>
       <td>16:30 - 16:45</td>
+      <td>Group discussion</td>
+    </tr>
+    <tr>
+      <td>16:45 - 17:00</td>
       <td>Wrap-up</td>
     </tr>
   </tbody>
