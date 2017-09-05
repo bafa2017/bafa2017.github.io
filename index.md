@@ -21,7 +21,7 @@ feature_speakers:
       title: "Dr. Roian Egnor"
       excerpt: "
         Janelia Research Campus<br/><br/>
-        Topic: *tentative*
+        Topic:<br/>*tentative*
       "
       url: /egnor
     - image_path: /assets/speakers/b_fisher.jpg
@@ -29,7 +29,7 @@ feature_speakers:
       title: "Prof. Robert Fisher"
       excerpt: "
         University of Edinburgh<br/><br/>
-        Topic: *tentative*
+        Topic:<br/>*tentative*
       "
       url: "/fisher"
     - image_path: /assets/speakers/l_vanderschuren.jpg
@@ -37,7 +37,7 @@ feature_speakers:
       title: "Prof. Louk Vanderschuren"
       excerpt: "
         Utrecht University<br/><br/>
-        Topic: *tentative*
+        Topic:<br/>*All Work and No Play: Studying the Neural Mechanisms of Social Play Behaviour in Rats*
       "
       url: "/vanderschuren"
     - image_path: /assets/speakers/y_winter.jpg
@@ -45,7 +45,7 @@ feature_speakers:
       title: "Prof. York Winter"
       excerpt: "
         Humboldt University, Berlin<br/><br/>
-        Topic: *tentative*
+        Topic:<br/>*tentative*
       "
       url: "/winter"
 ---

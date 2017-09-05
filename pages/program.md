@@ -31,7 +31,7 @@ header:
     </tr>
     <tr>
       <td>09:15 - 10:15</td>
-      <td markdown="span">Keynote: [Dr. Roian Egnor](/egnor)</td>
+      <td markdown="span">**Keynote**<br/>[Dr. Roian Egnor](/egnor)</td>
     </tr>
     <tr>
       <td>10:15 - 10:30</td>
@@ -60,7 +60,7 @@ header:
   <tbody>
     <tr>
       <td>13:00 - 14:00</td>
-      <td markdown="span">Keynote: [Prof. Louk Vanderschuren](/vanderschuren)</td>
+      <td markdown="span">**Keynote**<br/>[Prof. Louk Vanderschuren -- All Work and No Play: Studying the Neural Mechanisms of Social Play Behaviour in Rats](/vanderschuren)</td>
     </tr>
     <tr>
       <td>14:00 - 15:00</td>
@@ -104,7 +104,7 @@ header:
   <tbody>
     <tr>
       <td>09:15 - 10:15</td>
-      <td markdown="span">Keynote: [Prof. York Winter](/winter)</td>
+      <td markdown="span">**Keynote**<br/>[Prof. York Winter](/winter)</td>
     </tr>
     <tr>
       <td>10:15 - 10:30</td>
@@ -142,7 +142,7 @@ header:
   <tbody>
     <tr>
       <td>13:30 - 14:30</td>
-      <td markdown="span">Keynote: [Prof. Robert Fisher](/fisher)</td>
+      <td markdown="span">**Keynote**<br/>[Prof. Robert Fisher](/fisher)</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
