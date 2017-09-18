@@ -29,7 +29,7 @@ feature_speakers:
       title: "Prof. Robert Fisher"
       excerpt: "
         University of Edinburgh<br/><br/>
-        Topic:<br/>*tentative*
+        Topic:<br/>*Visual analysis of animal behaviour*
       "
       url: "/fisher"
     - image_path: /assets/speakers/l_vanderschuren.jpg
