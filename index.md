@@ -21,7 +21,7 @@ feature_speakers:
       title: "Dr. Roian Egnor"
       excerpt: "
         Janelia Research Campus<br/><br/>
-        Topic:<br/>*tentative*
+        Topic:<br/>*Something old and something new: using ethology and machine vision to decipher mouse social behavior*
       "
       url: /egnor
     - image_path: /assets/speakers/b_fisher.jpg

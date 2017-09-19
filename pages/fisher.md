@@ -8,12 +8,12 @@ author: rfisher
 
 ### Visual analysis of animal behaviour
 
-An advantage of video is that it can allow extraction of information not commonly accessible by human observers. This includes high-speed behaviour, multi-year trends, or subtle differences. This talk will present some examples from projects that
-1. observed bats with 500 frame/second stereo imaging,
-2. recorded 100k hours of undersea coral reef fish over a period of 3 years, and
-3. visually estimated the number of unique clownfish from another a set of observations.
+*An advantage of video is that it can allow extraction of information not commonly accessible by human observers. This includes high-speed behaviour, multi-year trends, or subtle differences. This talk will present some examples from projects that*
+1. *observed bats with 500 frame/second stereo imaging,*
+2. *recorded 100k hours of undersea coral reef fish over a period of 3 years, and*
+3. *visually estimated the number of unique clownfish from another a set of observations.*
 
-A brief mention of piglet monitoring will also be given.
+*A brief mention of piglet monitoring will also be given.*
 
 ### Bio
 

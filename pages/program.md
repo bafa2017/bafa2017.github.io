@@ -31,7 +31,7 @@ header:
     </tr>
     <tr>
       <td>09:15 - 10:15</td>
-      <td markdown="span">**Keynote**<br/>[Dr. Roian Egnor](/egnor)</td>
+      <td markdown="span">**Keynote**<br/>[Dr. Roian Egnor -- Something old and something new: using ethology and machine vision to decipher mouse social behavior](/egnor)</td>
     </tr>
     <tr>
       <td>10:15 - 10:30</td>
@@ -142,7 +142,7 @@ header:
   <tbody>
     <tr>
       <td>13:30 - 14:30</td>
-      <td markdown="span">**Keynote**<br/>[Prof. Robert Fisher](/fisher)</td>
+      <td markdown="span">**Keynote**<br/>[Prof. Robert Fisher -- Visual analysis of animal behaviour](/fisher)</td>
     </tr>
     <tr>
       <td>14:30 - 15:30</td>
