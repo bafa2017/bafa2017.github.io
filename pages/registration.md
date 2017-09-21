@@ -30,7 +30,9 @@ header:
 
 To attend the BAFA workshop 2017, please register using the form on this page. Attendance is **free** of charge and includes two full workshop days and a reception on Thursday. Due to limited room capacity, we may need to close registration if maximum capacity is reached. We reserve the right to select participants based on their scientific expertise to ensure the diversity and complementarity among attendees.
 
-To get the most out of the workshop, we encourage to attend both days. If you have to be absent on either day, please indicate it accordingly in your registration. If the number of registrations exceeds our capacity, we may give preference to participants who attend the entire workshop.
+To get the most out of the workshop, we encourage attending both days. If you have to be absent on either day, please indicate it accordingly in your registration. If the number of registrations exceeds our capacity, we may give preference to participants who attend the entire workshop.
+
+On the first day, we will have a presentation round in which the participants briefly introduce themselves and their research. [Read more...](/presentation_format)
 
 For questions, remarks or when you need to change your registration, please contact the <a href="mailto:{{ 'bafaworkshop2017@gmail.com' | encode_email }}?Subject=BAFA registration">organizers</a>.
 
