@@ -8,10 +8,10 @@ header:
   overlay_image: /assets/images/banner_net_2.jpg
 ---
 
-<div id="errorAttendance" markdown="span" class="notice--warning">
+<!--div id="errorAttendance" markdown="span" class="notice--warning">
     <i class="fa fa-exclamation-triangle" aria-hidden="true" />
     <span style="margin-left: 5px;">**This is a preliminary program that is subject to change.**</span>
-</div>
+</div-->
 
 
 ## Thursday, 12 October
@@ -43,7 +43,7 @@ header:
     </tr>
     <tr>
       <td>12:00 - 13:00</td>
-      <td><em>Lunch break</em></td>
+      <td><em>Lunch break</em> (included)</td>
     </tr>
   </tbody>
 </table>
@@ -76,7 +76,7 @@ header:
     </tr>
     <tr>
       <td>16:00 - 16:30</td>
-      <td markdown="span">Lessons learned from 25 years behavior analysis<br />(Elsbeth van Dam, Noldus Information Technology)</td>
+      <td markdown="span">Lessons learned from 25 years behavior analysis<br />(Elsbeth van Dam, [Noldus Information Technology](http://www.noldus.com))</td>
     </tr>
     <tr>
       <td>16:30 - 17:00</td>
@@ -84,7 +84,7 @@ header:
     </tr>
     <tr>
       <td>17:00 - 19:00</td>
-      <td><em>Reception</em></td>
+      <td><em>Reception</em> at <a href="/venue#reception">De Rechtbank</a> (Korte Nieuwstraat 14, Utrecht)</td>
     </tr>
   </tbody>
 </table>
@@ -124,7 +124,7 @@ header:
     </tr>
     <tr>
       <td>12:30 - 13:30</td>
-      <td><em>Lunch break</em></td>
+      <td><em>Lunch break</em> (included)</td>
     </tr>
   </tbody>
 </table>

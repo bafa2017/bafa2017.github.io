@@ -59,6 +59,7 @@ The workshop takes place in the University Hall (Academiegebouw) of Utrecht Univ
   </tbody>
 </table>
 
+<iframe src="https://www.google.com/maps/d/embed?mid=14mtSQvtW80q5L9DTiNBOnkytf8k&hl=en" width="100%" height="480"></iframe>
 
 ## Academiegebouw in Utrecht
 
@@ -68,6 +69,18 @@ The University Hall is [Utrecht University](https://www.uu.nl/en)’s ceremonial
 
 {% include gallery id="gallery_academiegebouw" caption="University Hall of Utrecht University" %}
 
+
+## <a name="reception"></a>Reception
+
+On Thursday, 12 October, we will gather for a reception with drinks and snacks in the bar "De Rechtbank", nearby the workshop location.
+
+<div markdown="span">
+    **De Rechtbank**<br/>
+    Korte Nieuwstraat 14<br/>
+    3512 NM Utrecht, The Netherlands<br/>
+    [Google Maps](https://www.google.com/maps/place/The+court/@52.0891924,5.1217688,18z/)<br/>
+    [www.derechtbank.com](http://www.derechtbank.com)
+</div>{: .notice--info}
 
 
 ## Travel directions
@@ -87,10 +100,18 @@ Other airports in the Netherlands include [Rotterdam/Den Haag (RTM)](https://www
     [Google Maps](https://www.google.com/maps/place/Academiegebouw/@52.0902099,5.121857,19z/)
 </div>{: .notice--info}
 
-Inside Utrecht Central Station follow the signs `Busstation Jaarbeurszijde` to the central bus stop. From there take one of the many buses through the city center and exit at `Janskerkhof`. The workshop location is a 5 min walk from here through the city center. Amongst others, your options include
-* Bus 2 toward `Museumkwartier`
+#### Walking
+
+From Utrecht Central Station it is a 10-15 minutes walk through the old city center to the Academiegebouw. Exit the station by following the signs `Centrum`.
+
+#### With public transport
+
+Inside the station follow the signs `Busstation Jaarbeurszijde` to the central bus stop. From there take one of the many buses through the city center and exit at `Janskerkhof`. The workshop location is a 5 min walk from here through the city center. Amongst others, your options include
 * Bus 7 toward `Voordorp`
 * Bus 8 toward `Wilheminapark`
-* Bus 77 toward `Bilthoven`
+* Bus 55 toward `Maartensdijk`
+* Bus 77 toward `Bilthoven`.
+
+The lines 7, 8, 55 and 77 all leave from bus stop `D2`. Other lines may leave from different platforms on the opposite side of the station (`Jaarbeursplein`).
 
 Check online for more connections and departure times: [9292.nl/en](http://9292.nl/en)
