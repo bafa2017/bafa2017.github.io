@@ -139,6 +139,7 @@ exclude:
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
   - /assets/_src
+  - pages/registration.md
 keep_files:
   - .git
   - .svn

@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Register"
-    url: /registration
+  # - title: "Register"
+  #   url: /registration
+  # - title: "Downloads"
+  #   url: /downloads
   - title: "Program"
     url: /program
   - title: "Venue"
