@@ -104,7 +104,7 @@ header:
   <tbody>
     <tr>
       <td>09:15 - 10:15</td>
-      <td markdown="span">**Keynote**<br/>[Prof. York Winter](/winter)</td>
+      <td markdown="span">**Keynote**<br/>[Prof. York Winter -- Towards full automation of behaviour training and behaviour measurement](/winter)</td>
     </tr>
     <tr>
       <td>10:15 - 10:30</td>

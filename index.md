@@ -43,7 +43,7 @@ feature_speakers:
       title: "Prof. York Winter"
       excerpt: "
         Humboldt University, Berlin<br/><br/>
-        Topic:<br/>*tentative*
+        Topic:<br/>*Towards full automation of behaviour training and behaviour measurement*
       "
       url: "/winter"
 ---
