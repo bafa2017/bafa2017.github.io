@@ -8,8 +8,8 @@ classes:
 header:
   overlay_filter: "rgba(2, 83,167,0.4)"
   overlay_image: /assets/images/banner_net_2.jpg
-  cta_label: "Registration closed"
-  cta_url: ""
+  # cta_label: "Registration closed"
+  # cta_url: ""
 
 excerpt: 12-13 October 2017, Utrecht, The Netherlands
 
@@ -48,29 +48,19 @@ feature_speakers:
       url: "/winter"
 ---
 
+# Thanks
+
+We thank all participants and speakers for making this first BAFA workshop a success! Let's keep up the good work.
+
 # Welcome to BAFA 2017
 Behavioral Neuroscience relies more and more on computational methods such as automated measuring tools for rodent behavior. Our goal is to stimulate the collaboration between neuroscientists and computer scientists for the development and improvement of such tools. Specifically, we aim at bringing the two fields closer together by increasing the understanding of each other's challenges and requirements. Streamlining the efforts into a common direction will increase the validity and acceptance of the developed tools. Eventually, automated measuring tools form a part of a refined, standardized methodology for animal behavior research that improves the reproducibility of the results and the value for translating them to the human.
 
-The BAFA workshop focuses on studying practical questions or ideas that are pitched by our invited speakers. Every pitch is followed by a break-out session in which the participants either work out one specific component of the idea in detail or map out the wider topic including opportunities, limitations and challenges. The highlights are collected in brief discussion rounds. Both workshop days will roughly follow the same schedule:
-
-* Morning
-  - Pitch by invited speaker
-  - Break-out session in groups
-  - Wrap-up (short presentations of group results)
-* Afternoon
-  - Pitch by invited speaker
-  - Break-out session in groups
-  - Wrap-up
-  - Discussion of the day's highlights
-
-On the first day, we will have a presentation round in which the participants briefly introduce themselves and their research. [Read more...](/presentation_format)
-
+The BAFA workshop focuses on studying practical questions or ideas that are pitched by our invited speakers. Every pitch is followed by a break-out session in which the participants either work out one specific component of the idea in detail or map out the wider topic including opportunities, limitations and challenges. The highlights are collected in brief discussion rounds.
 
 # Speakers
 We proudly announce our four keynote speakers who will pitch their ideas for a better analysis with fewer animals.
 
 {% include feature_row id="feature_speakers" %}
-
 
 # Organizers
 BAFA 2017 is organized by
